@@ -1,5 +1,3 @@
-# Then build docker container in the current directry:
-# docker build .
 FROM python:3.6-alpine
 MAINTAINER Leo Zhang
 
